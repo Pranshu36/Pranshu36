@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pranshu36](https://github.com/Pranshu36)
+- 👨‍💻 All of my projects are available at [https://github.com/Pranshu36?tab=repositories](https://github.com/Pranshu36?tab=repositories)
 
 - 📫 How to reach me **patelpranshu976@gmail.com**
 
